@@ -28,8 +28,8 @@
         <mxCell id="our5auSOoNWkaPZcG1eX-10" value="评价反馈" style="whiteSpace=wrap;strokeWidth=2;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="858" y="385" width="170" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="our5auSOoNWkaPZcG1eX-11" value="个人中心&#xa;修改住址、历史订单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1174" y="316" width="205" height="67" as="geometry" />
+        <mxCell id="our5auSOoNWkaPZcG1eX-11" value="个人中心&#xa;修改住址、历史订单" style="whiteSpace=wrap;strokeWidth=2;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="385" width="205" height="67" as="geometry" />
         </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-12" value="身份切换登录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1429" y="324" width="157" height="49" as="geometry" />
@@ -74,13 +74,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2997" y="192" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="our5auSOoNWkaPZcG1eX-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.68;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="our5auSOoNWkaPZcG1eX-4" target="our5auSOoNWkaPZcG1eX-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1277" y="291" />
             </Array>
           </mxGeometry>
         </mxCell>
