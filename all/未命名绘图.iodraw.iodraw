@@ -31,9 +31,6 @@
         <mxCell id="8qmJ9xSpC--q0C8jg7rR-9" value="个人中心(修改住址、历史订单)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="834" y="236" width="260" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="8qmJ9xSpC--q0C8jg7rR-10" value="身份切换登录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="254" width="157" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="8qmJ9xSpC--q0C8jg7rR-11" value="配送任务列表查看" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1351" y="244" width="189" height="49" as="geometry" />
         </mxCell>
@@ -110,11 +107,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8qmJ9xSpC--q0C8jg7rR-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.68;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="8qmJ9xSpC--q0C8jg7rR-3" target="8qmJ9xSpC--q0C8jg7rR-10">
+        <mxCell id="8qmJ9xSpC--q0C8jg7rR-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.68;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="8qmJ9xSpC--q0C8jg7rR-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1222" y="211" />
             </Array>
+            <mxPoint x="1228.5" y="254" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8qmJ9xSpC--q0C8jg7rR-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.85;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="8qmJ9xSpC--q0C8jg7rR-3" target="8qmJ9xSpC--q0C8jg7rR-11">
