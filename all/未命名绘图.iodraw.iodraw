@@ -118,14 +118,34 @@
         <mxCell id="our5auSOoNWkaPZcG1eX-47" value="个&#xa;人&#xa;中&#xa;心" style="whiteSpace=wrap;strokeWidth=2;rotation=90;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="2056" y="433" width="157" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="our5auSOoNWkaPZcG1eX-98" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="our5auSOoNWkaPZcG1eX-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2280" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-48" value="本&#xa;机&#xa;用&#xa;户&#xa;信&#xa;息&#xa;查&#xa;看" style="whiteSpace=wrap;strokeWidth=2;rotation=90;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="2200" y="433" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="our5auSOoNWkaPZcG1eX-97" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="our5auSOoNWkaPZcG1eX-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2358.5" y="320" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-49" value="订&#xa;单&#xa;查&#xa;询" style="whiteSpace=wrap;strokeWidth=2;rotation=90;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="2280" y="433" width="157" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="our5auSOoNWkaPZcG1eX-96" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="our5auSOoNWkaPZcG1eX-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2435.5" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-50" value="住&#xa;户&#xa;评&#xa;价&#xa;反&#xa;馈&#xa;查&#xa;看" style="whiteSpace=wrap;strokeWidth=2;rotation=90;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="2357" y="433" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="our5auSOoNWkaPZcG1eX-95" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="our5auSOoNWkaPZcG1eX-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2515.5" y="320" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-51" value="数&#xa;据&#xa;可&#xa;视&#xa;化&#xa;统&#xa;计" style="whiteSpace=wrap;strokeWidth=2;rotation=90;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="2437" y="433" width="157" height="49" as="geometry" />
