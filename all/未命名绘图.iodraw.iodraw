@@ -8,7 +8,7 @@
           <mxGeometry x="1843" y="100" width="254" height="67" as="geometry" />
         </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-4" value="住户功能模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="217" width="157" height="49" as="geometry" />
+          <mxGeometry x="1300" y="230" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-5" value="配送员功能模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1884" y="217" width="172" height="49" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="2320" y="217" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-12" value="身份切换登录" style="whiteSpace=wrap;strokeWidth=2;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="1630" y="433" width="157" height="49" as="geometry" />
+          <mxGeometry x="1660" y="433" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="our5auSOoNWkaPZcG1eX-3" target="our5auSOoNWkaPZcG1eX-5">
           <mxGeometry relative="1" as="geometry">
@@ -36,6 +36,11 @@
         <mxCell id="our5auSOoNWkaPZcG1eX-42" value="身份切换登录" style="whiteSpace=wrap;strokeWidth=2;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="890" y="464" width="157" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="our5auSOoNWkaPZcG1eX-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="our5auSOoNWkaPZcG1eX-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1480" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-43" value="身份切换登录" style="whiteSpace=wrap;strokeWidth=2;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="1000" y="452" width="157" height="49" as="geometry" />
         </mxCell>
@@ -49,7 +54,7 @@
           <mxGeometry x="1960" y="433" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-47" value="身份切换登录" style="whiteSpace=wrap;strokeWidth=2;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="2090" y="433" width="157" height="49" as="geometry" />
+          <mxGeometry x="2056" y="433" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-48" value="身份切换登录" style="whiteSpace=wrap;strokeWidth=2;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="2416" y="384" width="157" height="49" as="geometry" />
