@@ -21,6 +21,11 @@
         <mxCell id="our5auSOoNWkaPZcG1eX-5" value="配送员功能模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1809" y="240" width="172" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="our5auSOoNWkaPZcG1eX-64" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="our5auSOoNWkaPZcG1eX-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2406.5" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-6" value="模拟管理员模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2320" y="240" width="173" height="49" as="geometry" />
         </mxCell>
