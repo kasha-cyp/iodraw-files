@@ -4,13 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="our5auSOoNWkaPZcG1eX-66" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="our5auSOoNWkaPZcG1eX-3" target="our5auSOoNWkaPZcG1eX-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1895" y="200" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-3" value="基于微信小程序的小区物流配送系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1768" y="100" width="254" height="67" as="geometry" />
         </mxCell>
@@ -19,11 +12,6 @@
         </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-5" value="配送员功能模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1809" y="240" width="172" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="our5auSOoNWkaPZcG1eX-71" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="our5auSOoNWkaPZcG1eX-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2406.5" y="200" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-6" value="模拟管理员模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2320" y="240" width="173" height="49" as="geometry" />
@@ -69,6 +57,12 @@
         </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-51" value="数&#xa;据&#xa;可&#xa;视&#xa;化&#xa;统&#xa;计" style="whiteSpace=wrap;strokeWidth=2;rotation=90;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="2437" y="433" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="our5auSOoNWkaPZcG1eX-72" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2140" y="260" as="sourcePoint" />
+            <mxPoint x="2190" y="210" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
