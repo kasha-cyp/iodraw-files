@@ -7,9 +7,10 @@
         <mxCell id="our5auSOoNWkaPZcG1eX-3" value="基于微信小程序的小区物流配送系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1770" y="100" width="254" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="our5auSOoNWkaPZcG1eX-76" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="our5auSOoNWkaPZcG1eX-4">
+        <mxCell id="our5auSOoNWkaPZcG1eX-76" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1358.5" y="200" as="targetPoint" />
+            <mxPoint x="1359.5" y="200" as="targetPoint" />
+            <mxPoint x="1359.5" y="240" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-4" value="住户功能模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -152,8 +153,8 @@
         </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-72" value="" style="endArrow=none;html=1;rounded=1;strokeColor=default;strokeWidth=1;curved=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1350" y="200" as="sourcePoint" />
-            <mxPoint x="2410" y="200" as="targetPoint" />
+            <mxPoint x="1359" y="200" as="sourcePoint" />
+            <mxPoint x="2409" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-83" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
