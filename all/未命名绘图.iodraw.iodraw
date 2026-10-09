@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="our5auSOoNWkaPZcG1eX-3" value="基于微信小程序的小区物流配送系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1763" y="100" width="254" height="67" as="geometry" />
+          <mxGeometry x="1768" y="100" width="254" height="67" as="geometry" />
         </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-4" value="住户功能模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1303" y="250" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-5" value="配送员功能模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1884" y="250" width="172" height="49" as="geometry" />
+          <mxGeometry x="1800" y="250" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-6" value="模拟管理员模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2320" y="250" width="173" height="49" as="geometry" />
