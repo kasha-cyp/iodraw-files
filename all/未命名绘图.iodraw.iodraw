@@ -146,9 +146,10 @@
         <mxCell id="our5auSOoNWkaPZcG1eX-50" value="住&#xa;户&#xa;评&#xa;价&#xa;反&#xa;馈&#xa;查&#xa;看" style="whiteSpace=wrap;strokeWidth=2;rotation=90;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="2357" y="433" width="157" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="our5auSOoNWkaPZcG1eX-95" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="our5auSOoNWkaPZcG1eX-51">
+        <mxCell id="our5auSOoNWkaPZcG1eX-95" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2515.5" y="320" as="targetPoint" />
+            <mxPoint x="2519.5" y="320" as="targetPoint" />
+            <mxPoint x="2519.5" y="379" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-51" value="数&#xa;据&#xa;可&#xa;视&#xa;化&#xa;统&#xa;计" style="whiteSpace=wrap;strokeWidth=2;rotation=90;horizontal=0;" vertex="1" parent="1">
