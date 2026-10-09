@@ -39,6 +39,15 @@
         <mxCell id="our5auSOoNWkaPZcG1eX-43" value="身份切换登录" style="whiteSpace=wrap;strokeWidth=2;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="1000" y="452" width="157" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="our5auSOoNWkaPZcG1eX-44" value="身份切换登录" style="whiteSpace=wrap;strokeWidth=2;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="1626" y="484" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="our5auSOoNWkaPZcG1eX-45" value="身份切换登录" style="whiteSpace=wrap;strokeWidth=2;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="1746" y="524" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="our5auSOoNWkaPZcG1eX-46" value="身份切换登录" style="whiteSpace=wrap;strokeWidth=2;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="1856" y="534" width="157" height="49" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
