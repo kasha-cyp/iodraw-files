@@ -123,6 +123,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="our5auSOoNWkaPZcG1eX-39" value="身份切换登录" style="whiteSpace=wrap;strokeWidth=2;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="516" y="464" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="our5auSOoNWkaPZcG1eX-40" value="身份切换登录" style="whiteSpace=wrap;strokeWidth=2;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="716" y="494" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="our5auSOoNWkaPZcG1eX-41" value="身份切换登录" style="whiteSpace=wrap;strokeWidth=2;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="816" y="514" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="our5auSOoNWkaPZcG1eX-42" value="身份切换登录" style="whiteSpace=wrap;strokeWidth=2;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="876" y="534" width="157" height="49" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
