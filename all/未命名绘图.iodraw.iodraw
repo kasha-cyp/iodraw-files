@@ -24,7 +24,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="our5auSOoNWkaPZcG1eX-39" value="" style="whiteSpace=wrap;strokeWidth=2;rotation=90;horizontal=0;" vertex="1" parent="1">
+        <mxCell id="our5auSOoNWkaPZcG1eX-39" value="微&#xa;信&#xa;授&#xa;权" style="whiteSpace=wrap;strokeWidth=2;rotation=90;horizontal=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="1143" y="433" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-40" value="身份切换登录" style="whiteSpace=wrap;strokeWidth=2;rotation=90;horizontal=0;" vertex="1" parent="1">
