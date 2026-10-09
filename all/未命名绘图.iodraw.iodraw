@@ -29,10 +29,10 @@
           <mxGeometry x="858" y="385" width="170" height="49" as="geometry" />
         </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-11" value="个人中心&#xa;修改住址、历史订单" style="whiteSpace=wrap;strokeWidth=2;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="385" width="205" height="67" as="geometry" />
+          <mxGeometry x="970" y="374" width="205" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="our5auSOoNWkaPZcG1eX-12" value="身份切换登录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1429" y="324" width="157" height="49" as="geometry" />
+        <mxCell id="our5auSOoNWkaPZcG1eX-12" value="身份切换登录" style="whiteSpace=wrap;strokeWidth=2;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="403" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-13" value="配送任务列表查看" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1636" y="324" width="189" height="49" as="geometry" />
