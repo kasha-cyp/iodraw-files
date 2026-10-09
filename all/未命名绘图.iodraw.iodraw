@@ -4,6 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="our5auSOoNWkaPZcG1eX-74" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="our5auSOoNWkaPZcG1eX-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1887" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-3" value="基于微信小程序的小区物流配送系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1760" y="100" width="254" height="67" as="geometry" />
         </mxCell>
