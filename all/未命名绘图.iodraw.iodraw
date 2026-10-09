@@ -44,13 +44,19 @@
         <mxCell id="our5auSOoNWkaPZcG1eX-12" value="身&#xa;份&#xa;切&#xa;换&#xa;登&#xa;录" style="whiteSpace=wrap;strokeWidth=2;rotation=90;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="1660" y="433" width="157" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="our5auSOoNWkaPZcG1eX-94" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1221.5" y="320" as="targetPoint" />
+            <mxPoint x="1221.5" y="378.9999999999998" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-39" value="微&#xa;信&#xa;授&#xa;权&#xa;登&#xa;录" style="whiteSpace=wrap;strokeWidth=2;rotation=90;horizontal=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="1143" y="433" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-93" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1293.5" y="320" as="targetPoint" />
-            <mxPoint x="1293.5" y="378.9999999999998" as="sourcePoint" />
+            <mxPoint x="1300.5" y="320" as="targetPoint" />
+            <mxPoint x="1300.5" y="378.9999999999998" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-40" value="包&#xa;裹&#xa;预&#xa;约&#xa;下&#xa;单" style="whiteSpace=wrap;strokeWidth=2;rotation=90;horizontal=0;" vertex="1" parent="1">
