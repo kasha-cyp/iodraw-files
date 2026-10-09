@@ -17,9 +17,9 @@
           <mxGeometry x="2911" y="217" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-7" value="微信授权登录" style="whiteSpace=wrap;strokeWidth=2;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="360" y="324" width="158" height="49" as="geometry" />
+          <mxGeometry x="414" y="383" width="158" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="our5auSOoNWkaPZcG1eX-8" value="包裹预约下单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="our5auSOoNWkaPZcG1eX-8" value="包裹预约下单" style="whiteSpace=wrap;strokeWidth=2;rotation=95;" vertex="1" parent="1">
           <mxGeometry x="568" y="324" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-9" value="订单与包裹查询" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -74,20 +74,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2997" y="192" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="our5auSOoNWkaPZcG1eX-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.68;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="our5auSOoNWkaPZcG1eX-4" target="our5auSOoNWkaPZcG1eX-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="439" y="291" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="our5auSOoNWkaPZcG1eX-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.86;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="our5auSOoNWkaPZcG1eX-4" target="our5auSOoNWkaPZcG1eX-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="647" y="291" />
             </Array>
           </mxGeometry>
         </mxCell>
