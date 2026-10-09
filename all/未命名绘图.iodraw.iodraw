@@ -16,21 +16,6 @@
         <mxCell id="our5auSOoNWkaPZcG1eX-6" value="模拟管理员模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2911" y="217" width="173" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="our5auSOoNWkaPZcG1eX-7" value="微信授权登录" style="whiteSpace=wrap;strokeWidth=2;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="414" y="383" width="158" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="our5auSOoNWkaPZcG1eX-8" value="包裹预约下单" style="whiteSpace=wrap;strokeWidth=2;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="560" y="383" width="157" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="our5auSOoNWkaPZcG1eX-9" value="订单与包裹查询" style="whiteSpace=wrap;strokeWidth=2;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="690" y="383" width="173" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="our5auSOoNWkaPZcG1eX-10" value="评价反馈" style="whiteSpace=wrap;strokeWidth=2;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="858" y="385" width="170" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="our5auSOoNWkaPZcG1eX-11" value="个人中心&#xa;修改住址、历史订单" style="whiteSpace=wrap;strokeWidth=2;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="970" y="374" width="205" height="67" as="geometry" />
-        </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-12" value="身份切换登录" style="whiteSpace=wrap;strokeWidth=2;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="1420" y="403" width="157" height="49" as="geometry" />
         </mxCell>
