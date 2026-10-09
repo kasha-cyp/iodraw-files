@@ -28,60 +28,9 @@
         <mxCell id="our5auSOoNWkaPZcG1eX-20" value="数据可视化统计&#xa;ECharts饼图/柱状图" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3266" y="316" width="203" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="our5auSOoNWkaPZcG1eX-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.6;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="our5auSOoNWkaPZcG1eX-3" target="our5auSOoNWkaPZcG1eX-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="862" y="192" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="our5auSOoNWkaPZcG1eX-3" target="our5auSOoNWkaPZcG1eX-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="our5auSOoNWkaPZcG1eX-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.6;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="our5auSOoNWkaPZcG1eX-3" target="our5auSOoNWkaPZcG1eX-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2997" y="192" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="our5auSOoNWkaPZcG1eX-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.68;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="our5auSOoNWkaPZcG1eX-5" target="our5auSOoNWkaPZcG1eX-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1508" y="291" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="our5auSOoNWkaPZcG1eX-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.85;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="our5auSOoNWkaPZcG1eX-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1731" y="291" />
-            </Array>
-            <mxPoint x="1730.5" y="324" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="our5auSOoNWkaPZcG1eX-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.73;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="our5auSOoNWkaPZcG1eX-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2626" y="291" />
-            </Array>
-            <mxPoint x="2626" y="324" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="our5auSOoNWkaPZcG1eX-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.14;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="our5auSOoNWkaPZcG1eX-6" target="our5auSOoNWkaPZcG1eX-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2874" y="291" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="our5auSOoNWkaPZcG1eX-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.85;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="our5auSOoNWkaPZcG1eX-6" target="our5auSOoNWkaPZcG1eX-19">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3121" y="291" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.73;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="our5auSOoNWkaPZcG1eX-6" target="our5auSOoNWkaPZcG1eX-20">
