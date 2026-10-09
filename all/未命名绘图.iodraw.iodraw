@@ -9,8 +9,8 @@
         </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-76" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1359.5" y="200" as="targetPoint" />
-            <mxPoint x="1359.5" y="240" as="sourcePoint" />
+            <mxPoint x="1357.5" y="200" as="targetPoint" />
+            <mxPoint x="1357.5" y="240" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-4" value="住户功能模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -181,8 +181,8 @@
         </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-103" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2400" y="321" as="targetPoint" />
-            <mxPoint x="2400" y="290" as="sourcePoint" />
+            <mxPoint x="2400" y="320" as="targetPoint" />
+            <mxPoint x="2400" y="289" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
