@@ -63,7 +63,13 @@
         <mxCell id="our5auSOoNWkaPZcG1eX-51" value="数&#xa;据&#xa;可&#xa;视&#xa;化&#xa;统&#xa;计" style="whiteSpace=wrap;strokeWidth=2;rotation=90;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="2437" y="433" width="157" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="our5auSOoNWkaPZcG1eX-54" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="our5auSOoNWkaPZcG1eX-55" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1750" y="380" as="sourcePoint" />
+            <mxPoint x="1800" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="our5auSOoNWkaPZcG1eX-56" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1750" y="380" as="sourcePoint" />
             <mxPoint x="1800" y="330" as="targetPoint" />
