@@ -8,7 +8,7 @@
           <mxGeometry x="1768" y="100" width="254" height="67" as="geometry" />
         </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-4" value="住户功能模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="220" width="157" height="49" as="geometry" />
+          <mxGeometry x="1290" y="240" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-5" value="配送员功能模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1809" y="230" width="172" height="49" as="geometry" />
