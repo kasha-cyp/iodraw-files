@@ -22,13 +22,8 @@
         <mxCell id="our5auSOoNWkaPZcG1eX-8" value="包裹预约下单" style="whiteSpace=wrap;strokeWidth=2;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="560" y="383" width="157" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="our5auSOoNWkaPZcG1eX-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="our5auSOoNWkaPZcG1eX-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="760" y="390" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-9" value="订单与包裹查询" style="whiteSpace=wrap;strokeWidth=2;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="740" y="390" width="173" height="49" as="geometry" />
+          <mxGeometry x="690" y="383" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-10" value="评价反馈" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="998" y="324" width="126" height="49" as="geometry" />
