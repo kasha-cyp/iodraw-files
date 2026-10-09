@@ -20,6 +20,11 @@
             <mxPoint x="1895.9999999999995" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="our5auSOoNWkaPZcG1eX-84" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="our5auSOoNWkaPZcG1eX-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1896" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-5" value="配送员功能模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1810" y="240" width="172" height="49" as="geometry" />
         </mxCell>
