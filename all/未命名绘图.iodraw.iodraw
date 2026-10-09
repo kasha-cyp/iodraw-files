@@ -10,6 +10,16 @@
         <mxCell id="our5auSOoNWkaPZcG1eX-3" value="基于微信小程序的小区物流配送系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1768" y="100" width="254" height="67" as="geometry" />
         </mxCell>
+        <mxCell id="our5auSOoNWkaPZcG1eX-62" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="our5auSOoNWkaPZcG1eX-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1368.5" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="our5auSOoNWkaPZcG1eX-63" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="our5auSOoNWkaPZcG1eX-62">
+          <mxGeometry x="-0.2441" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-4" value="住户功能模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1290" y="240" width="157" height="49" as="geometry" />
         </mxCell>
