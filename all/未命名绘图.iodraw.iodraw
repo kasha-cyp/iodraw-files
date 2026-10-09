@@ -36,6 +36,11 @@
         <mxCell id="our5auSOoNWkaPZcG1eX-6" value="模拟管理员模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2320" y="240" width="173" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="our5auSOoNWkaPZcG1eX-89" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="our5auSOoNWkaPZcG1eX-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1738.5" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-12" value="身&#xa;份&#xa;切&#xa;换&#xa;登&#xa;录" style="whiteSpace=wrap;strokeWidth=2;rotation=90;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="1660" y="433" width="157" height="49" as="geometry" />
         </mxCell>
@@ -70,8 +75,18 @@
         <mxCell id="our5auSOoNWkaPZcG1eX-45" value="订&#xa;单&#xa;配&#xa;送&#xa;状&#xa;态&#xa;更&#xa;新" style="whiteSpace=wrap;strokeWidth=2;rotation=90;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="1860" y="433" width="157" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="our5auSOoNWkaPZcG1eX-87" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="our5auSOoNWkaPZcG1eX-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2040" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-46" value="订&#xa;单&#xa;任&#xa;务&#xa;筛&#xa;选" style="whiteSpace=wrap;strokeWidth=2;rotation=90;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="1960" y="433" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="our5auSOoNWkaPZcG1eX-88" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="our5auSOoNWkaPZcG1eX-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2134.5" y="320" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-47" value="个&#xa;人&#xa;中&#xa;心" style="whiteSpace=wrap;strokeWidth=2;rotation=90;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="2056" y="433" width="157" height="49" as="geometry" />
