@@ -48,6 +48,12 @@
         <mxCell id="our5auSOoNWkaPZcG1eX-46" value="身份切换登录" style="whiteSpace=wrap;strokeWidth=2;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="1856" y="534" width="157" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="our5auSOoNWkaPZcG1eX-47" value="身份切换登录" style="whiteSpace=wrap;strokeWidth=2;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="2036" y="574" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="our5auSOoNWkaPZcG1eX-48" value="身份切换登录" style="whiteSpace=wrap;strokeWidth=2;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="2416" y="384" width="157" height="49" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
