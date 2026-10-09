@@ -14,30 +14,14 @@
           <mxGeometry x="1884" y="217" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-6" value="模拟管理员模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2911" y="217" width="173" height="49" as="geometry" />
+          <mxGeometry x="2360" y="167" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-12" value="身份切换登录" style="whiteSpace=wrap;strokeWidth=2;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="1420" y="403" width="157" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="our5auSOoNWkaPZcG1eX-18" value="订单、包裹记录查询" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2771" y="324" width="205" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="our5auSOoNWkaPZcG1eX-19" value="住户评价反馈查看" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3026" y="324" width="190" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="our5auSOoNWkaPZcG1eX-20" value="数据可视化统计&#xa;ECharts饼图/柱状图" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3266" y="316" width="203" height="67" as="geometry" />
-        </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="our5auSOoNWkaPZcG1eX-3" target="our5auSOoNWkaPZcG1eX-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="our5auSOoNWkaPZcG1eX-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.73;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="our5auSOoNWkaPZcG1eX-6" target="our5auSOoNWkaPZcG1eX-20">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3367" y="291" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-39" value="身份切换登录" style="whiteSpace=wrap;strokeWidth=2;rotation=90;" vertex="1" parent="1">
