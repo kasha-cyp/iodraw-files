@@ -33,7 +33,7 @@
         <mxCell id="our5auSOoNWkaPZcG1eX-41" value="身份切换登录" style="whiteSpace=wrap;strokeWidth=2;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="1300" y="433" width="157" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="our5auSOoNWkaPZcG1eX-42" value="身份切换登录" style="strokeWidth=2;rotation=90;whiteSpace=wrap;textDirection=rtl;" vertex="1" parent="1">
+        <mxCell id="our5auSOoNWkaPZcG1eX-42" value="身份切换登录" style="strokeWidth=2;rotation=90;whiteSpace=wrap;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="1380" y="433" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="our5auSOoNWkaPZcG1eX-43" value="身份切换登录" style="whiteSpace=wrap;strokeWidth=2;rotation=90;" vertex="1" parent="1">
