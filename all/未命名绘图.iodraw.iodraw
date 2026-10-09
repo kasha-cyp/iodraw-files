@@ -10,7 +10,7 @@
         <mxCell id="our5auSOoNWkaPZcG1eX-4" value="住户功能模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1280" y="240" width="157" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="our5auSOoNWkaPZcG1eX-75" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="our5auSOoNWkaPZcG1eX-5" target="our5auSOoNWkaPZcG1eX-3">
+        <mxCell id="our5auSOoNWkaPZcG1eX-75" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="our5auSOoNWkaPZcG1eX-5" target="our5auSOoNWkaPZcG1eX-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1895.9999999999995" y="170" as="targetPoint" />
           </mxGeometry>
