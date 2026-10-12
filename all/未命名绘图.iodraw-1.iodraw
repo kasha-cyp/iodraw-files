@@ -1,45 +1,45 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="-QklVh0hKUIZNiIU0gaT">
-    <mxGraphModel dx="2083" dy="979" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1666" dy="817" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GHFu772-0MmhGUee8oSZ-1" value="表示层 · 微信小程序前端（WXML/WXSS/JavaScript）&#xa;──────────────────────────────&#xa;· WXML —— 页面结构　· WXSS —— 页面样式　· JavaScript —— 业务逻辑&#xa;· 微信开发者工具：界面开发与调试&#xa;· 平台能力：微信登录（wx.login 换 openid）、消息通知" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="GHFu772-0MmhGUee8oSZ-1" value="表示层 · 微信小程序前端（WXML/WXSS/JavaScript）&#xa;──────────────────────────────&#xa;· WXML —— 页面结构　· WXSS —— 页面样式　· JavaScript —— 业务逻辑&#xa;· 微信开发者工具：界面开发与调试&#xa;· 平台能力：微信登录（wx.login 换 openid）、消息通知" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="20" y="117" width="260" height="181" as="geometry" />
         </mxCell>
-        <mxCell id="GHFu772-0MmhGUee8oSZ-2" value="HTTPS 接口 · 前后端分离（B/S 架构）" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="GHFu772-0MmhGUee8oSZ-2" value="HTTPS 接口 · 前后端分离（B/S 架构）" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="33" y="348" width="234" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="GHFu772-0MmhGUee8oSZ-3" value="业务逻辑层 · Spring Boot 后端&#xa;──────────────────────────────&#xa;· RESTful 接口（@RestController，如 /api/order、/api/user）&#xa;· 业务逻辑处理（Service 层）&#xa;· 数据持久化（MyBatis Mapper + XML）" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="GHFu772-0MmhGUee8oSZ-3" value="业务逻辑层 · Spring Boot 后端&#xa;──────────────────────────────&#xa;· RESTful 接口（@RestController，如 /api/order、/api/user）&#xa;· 业务逻辑处理（Service 层）&#xa;· 数据持久化（MyBatis Mapper + XML）" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="22" y="464" width="255" height="184" as="geometry" />
         </mxCell>
-        <mxCell id="GHFu772-0MmhGUee8oSZ-4" value="数据访问层 · MyBatis（Mapper / 数据持久化）" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="GHFu772-0MmhGUee8oSZ-4" value="数据访问层 · MyBatis（Mapper / 数据持久化）" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="51" y="704" width="197" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="GHFu772-0MmhGUee8oSZ-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="GHFu772-0MmhGUee8oSZ-1" target="GHFu772-0MmhGUee8oSZ-2">
+        <mxCell id="GHFu772-0MmhGUee8oSZ-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="GHFu772-0MmhGUee8oSZ-1" target="GHFu772-0MmhGUee8oSZ-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GHFu772-0MmhGUee8oSZ-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="GHFu772-0MmhGUee8oSZ-2" target="GHFu772-0MmhGUee8oSZ-3">
+        <mxCell id="GHFu772-0MmhGUee8oSZ-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" parent="1" source="GHFu772-0MmhGUee8oSZ-2" target="GHFu772-0MmhGUee8oSZ-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GHFu772-0MmhGUee8oSZ-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="GHFu772-0MmhGUee8oSZ-3" target="GHFu772-0MmhGUee8oSZ-4">
+        <mxCell id="GHFu772-0MmhGUee8oSZ-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="GHFu772-0MmhGUee8oSZ-3" target="GHFu772-0MmhGUee8oSZ-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GHFu772-0MmhGUee8oSZ-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="GHFu772-0MmhGUee8oSZ-4" target="GHFu772-0MmhGUee8oSZ-5">
+        <mxCell id="GHFu772-0MmhGUee8oSZ-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" parent="1" source="GHFu772-0MmhGUee8oSZ-4" target="GHFu772-0MmhGUee8oSZ-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GHFu772-0MmhGUee8oSZ-5" value="数据层 · MySQL 数据库&#xa;──────────────────────────────&#xa;· 规范化数据表：user（用户）/ delivery（配送员）/ order（订单）/ building（楼栋）/ comment（评价）&#xa;· 主外键约束 —— 保证数据完整性&#xa;· 索引 —— 提升查询性能　· 事务 —— 保障数据一致性" style="whiteSpace=wrap;strokeWidth=2;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+        <mxCell id="GHFu772-0MmhGUee8oSZ-5" value="数据层 · MySQL 数据库&#xa;──────────────────────────────&#xa;· 规范化数据表：user（用户）/ delivery（配送员）/ order（订单）/ building（楼栋）/ comment（评价）&#xa;· 主外键约束 —— 保证数据完整性&#xa;· 索引 —— 提升查询性能　· 事务 —— 保障数据一致性" style="whiteSpace=wrap;strokeWidth=2;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="23" y="874" width="254" height="218" as="geometry" />
         </mxCell>
-        <mxCell id="GHFu772-0MmhGUee8oSZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GHFu772-0MmhGUee8oSZ-5" target="GHFu772-0MmhGUee8oSZ-5">
+        <mxCell id="GHFu772-0MmhGUee8oSZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="GHFu772-0MmhGUee8oSZ-5" target="GHFu772-0MmhGUee8oSZ-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
