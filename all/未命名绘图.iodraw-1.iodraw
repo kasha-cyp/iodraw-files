@@ -13,13 +13,13 @@
         <mxCell id="GHFu772-0MmhGUee8oSZ-3" value="业务逻辑层 · Spring Boot 后端&#xa;──────────────────────────────&#xa;· RESTful 接口（@RestController，如 /api/order、/api/user）&#xa;· 业务逻辑处理（Service 层）&#xa;· 数据持久化（MyBatis Mapper + XML）" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="22" y="464" width="255" height="225" as="geometry" />
         </mxCell>
-        <mxCell id="GHFu772-0MmhGUee8oSZ-4" value="数据访问层 · MyBatis（Mapper / 数据持久化）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="GHFu772-0MmhGUee8oSZ-4" value="数据访问层 · MyBatis（Mapper / 数据持久化）" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="51" y="739" width="197" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="GHFu772-0MmhGUee8oSZ-5" value="数据层 · MySQL 数据库&#xa;──────────────────────────────&#xa;· 规范化数据表：user（用户）/ delivery（配送员）/ order（订单）/ building（楼栋）/ comment（评价）&#xa;· 主外键约束 —— 保证数据完整性&#xa;· 索引 —— 提升查询性能　· 事务 —— 保障数据一致性" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="GHFu772-0MmhGUee8oSZ-5" value="数据层 · MySQL 数据库&#xa;──────────────────────────────&#xa;· 规范化数据表：user（用户）/ delivery（配送员）/ order（订单）/ building（楼栋）/ comment（评价）&#xa;· 主外键约束 —— 保证数据完整性&#xa;· 索引 —— 提升查询性能　· 事务 —— 保障数据一致性" style="whiteSpace=wrap;strokeWidth=2;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="23" y="874" width="254" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="GHFu772-0MmhGUee8oSZ-6" value="技术路线小结：&#xa;微信小程序前端 + Spring Boot 后端 + MySQL，通过 HTTPS 接口通信，构成「表示层 → 业务逻辑层 → 数据访问层」三层结构；整体采用 B/S 架构、前后端分离。" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="GHFu772-0MmhGUee8oSZ-6" value="技术路线小结：&#xa;微信小程序前端 + Spring Boot 后端 + MySQL，通过 HTTPS 接口通信，构成「表示层 → 业务逻辑层 → 数据访问层」三层结构；整体采用 B/S 架构、前后端分离。" style="whiteSpace=wrap;strokeWidth=2;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="21" y="1184" width="257" height="190" as="geometry" />
         </mxCell>
         <mxCell id="GHFu772-0MmhGUee8oSZ-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="GHFu772-0MmhGUee8oSZ-1" target="GHFu772-0MmhGUee8oSZ-2">
