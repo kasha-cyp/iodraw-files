@@ -11,7 +11,7 @@
           <mxGeometry x="33" y="348" width="234" height="67" as="geometry" />
         </mxCell>
         <mxCell id="GHFu772-0MmhGUee8oSZ-3" value="业务逻辑层 · Spring Boot 后端&#xa;──────────────────────────────&#xa;· RESTful 接口（@RestController，如 /api/order、/api/user）&#xa;· 业务逻辑处理（Service 层）&#xa;· 数据持久化（MyBatis Mapper + XML）" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="22" y="464" width="255" height="225" as="geometry" />
+          <mxGeometry x="22" y="464" width="255" height="184" as="geometry" />
         </mxCell>
         <mxCell id="GHFu772-0MmhGUee8oSZ-4" value="数据访问层 · MyBatis（Mapper / 数据持久化）" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="51" y="739" width="197" height="84" as="geometry" />
