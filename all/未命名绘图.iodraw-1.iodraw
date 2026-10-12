@@ -37,7 +37,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GHFu772-0MmhGUee8oSZ-5" value="数据层 · MySQL 数据库&#xa;──────────────────────────────&#xa;· 规范化数据表：user（用户）/ delivery（配送员）/ order（订单）/ building（楼栋）/ comment（评价）&#xa;· 主外键约束 —— 保证数据完整性&#xa;· 索引 —— 提升查询性能　· 事务 —— 保障数据一致性" style="whiteSpace=wrap;strokeWidth=2;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="23" y="874" width="254" height="260" as="geometry" />
+          <mxGeometry x="23" y="874" width="254" height="218" as="geometry" />
         </mxCell>
         <mxCell id="GHFu772-0MmhGUee8oSZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GHFu772-0MmhGUee8oSZ-5" target="GHFu772-0MmhGUee8oSZ-5">
           <mxGeometry relative="1" as="geometry" />
