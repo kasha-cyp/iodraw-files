@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="GHFu772-0MmhGUee8oSZ-1" value="表示层 · 微信小程序前端（WXML/WXSS/JavaScript）&#xa;──────────────────────────────&#xa;· WXML —— 页面结构　· WXSS —— 页面样式　· JavaScript —— 业务逻辑&#xa;· 微信开发者工具：界面开发与调试&#xa;· 平台能力：微信登录（wx.login 换 openid）、消息通知" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="20" y="20" width="260" height="278" as="geometry" />
+          <mxGeometry x="20" y="84" width="260" height="214" as="geometry" />
         </mxCell>
         <mxCell id="GHFu772-0MmhGUee8oSZ-2" value="HTTPS 接口 · 前后端分离（B/S 架构）" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="33" y="348" width="234" height="67" as="geometry" />
